@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LoginInterface.Receptionist">
+    <Position X="2.5" Y="0.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBBCCIDAIACCAAwAAAKQAAAAIAGCCAIAAQAAAAAA=</HashCode>
+      <FileName>Receptionist\Receptionist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginInterface.RoleIdentifier">
+    <Position X="8.25" Y="4" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAEAAAAAAAAAAABEAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>RoleIdentifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginInterface.DBConnection">
+    <Position X="2.5" Y="7.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAEAAAAAQAAAAIAQAAAAAABEAAACAAEACAAAA=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginInterface.Validation">
+    <Position X="8.25" Y="0.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAIAAQAAAAAAAAAAAAABAAAAIAE=</HashCode>
+      <FileName>Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
